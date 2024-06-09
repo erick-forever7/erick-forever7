@@ -1,0 +1,133 @@
+.body1{
+    filter: grayscale(10px 40px);
+    border-radius: 20px;
+}
+
+
+.name1{
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px 40px;
+    cursor: pointer;
+    filter: drop-shadow(16px 7px 8px blue);
+}
+.name1:hover{
+    background-color: rgb(83, 83, 255);
+}
+.name1:active{
+    background-color: blue;
+}
+.check1{
+    height: 10px;
+    width: 10px;
+    border-radius: 50px 80px / 70px 10px;
+    cursor: pointer;
+}
+
+.picture{
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(16px 7px 8px gray);
+    border-radius: 15px;
+}
+
+.name2{
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px 80px / 70px 10px;
+    cursor: pointer;
+    filter: drop-shadow(16px 7px 8px blue);
+}
+.name2:hover{
+    background-color: rgb(83, 83, 255);
+}
+.name2:active{
+    background-color: blue;
+}
+
+.check2{
+    height: 10px;
+    width: 10px;
+    cursor: pointer;
+}
+
+.submit{
+    background-color: rgb(255, 0, 0);
+    border: none;
+    height: 30px;
+    width: 50px;
+    border-radius: 50px;
+    filter: drop-shadow(16px 7px 8px red);
+    cursor: pointer;
+
+}
+
+.submit:hover{
+    background-color: purple;
+}
+
+.submit:active{
+    background-color: rgb(255, 69, 69);
+}
+
+.file1{
+    align-items: center;
+    justify-content: center;
+    filter: drop-shadow(16px 7px 8px pink);
+    cursor: pointer;
+
+}
+
+.file1:hover{
+    background-color: rgb(61, 61, 243);
+
+}
+.file1:active{
+    background-color: blue;
+}
+
+.picture2{
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(16px 7px 8px rgb(32, 32, 146));
+    border-radius: 15px;
+}
+
+.picture3{
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(16px 7px 8px rgb(78, 78, 184));
+    border-radius: 15px;
+}
+
+.picture4{
+    height: 200px;
+    width: 200px;
+    filter: drop-shadow(16px 7px 8px #d21369);
+    border-radius: 15px;
+}
+
+.check3{
+    height: 10px;
+    width: 10px;
+    cursor: pointer;
+
+}
+
+.home{
+    height: 50px;
+    width: 80px;
+    
+}
+.room{
+    height: 50px;
+    width: 80px;
+    margin-left: 30px;
+    
+}
+.about{
+    height: 50px;
+    width: 80px;
+    margin-left: 30px;
+    
+}
